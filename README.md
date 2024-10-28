@@ -1,7 +1,7 @@
-# 👋 ¡Hola! Soy Imanol 👨‍💻
+# 👋 Hola! Soy Imanol 👨‍💻
 
 ### Sobre mí
-Soy un desarrollador apasionado por las aplicaciones multiplataforma (DAM), con experiencia en varios lenguajes como Java, Kotlin, Python, Swift, y frameworks modernos como React y Angular. Actualmente, estoy explorando y ampliando mis conocimientos en tecnología a través de diferentes módulos de DAM, enfocándome en soluciones prácticas y de alto rendimiento.
+Soy un desarrollador apasionado por las aplicaciones multiplataforma (DAM) y por el aprendizaje continuo en IA y machine learning. Tengo experiencia en varios lenguajes como Java, Kotlin, Python, y Swift, además de frameworks modernos como React y Angular. Actualmente, estoy explorando y ampliando mis conocimientos en tecnología a través de diferentes módulos de DAM, enfocándome en soluciones prácticas y de alto rendimiento.
 
 ## 🚀 Tecnologías y Herramientas
 
@@ -29,43 +29,22 @@ Soy un desarrollador apasionado por las aplicaciones multiplataforma (DAM), con 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 </p>
 
-### ☁️ Servicios en la Nube
+### 🔧 IDEs y Herramientas de Desarrollo
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
 </p>
 
-### 🔧 Frameworks y Librerías
+### 📚 Frameworks y Librerías
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
 </p>
-
-### 🤖 Herramientas de Inteligencia Artificial
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" width="40" height="40" alt="OpenAI Logo"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Replit_Logo.svg" width="40" height="40" alt="Replit Logo"/>
-  <!-- Perplexity, Cloud y otras herramientas pueden añadirse si encuentras sus iconos en línea o en SVG -->
-</p>
-
-### 🧩 Sistemas de Gestión Empresarial
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" width="40" height="40" alt="SAP Logo"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Odoo_logo.svg" width="40" height="40" alt="Odoo Logo"/>
-</p>
-
-### 📐 Formaciones Superiores en Otros Sectores
-#### CNC y Maquinado
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055642.png" width="40" height="40" alt="CNC Icon"/>
-</p>
-
-#### Marketing Digital
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/1639/1639475.png" width="40" height="40" alt="Marketing Icon"/>
-</p>
-
 
 ### 🌱 Actualmente trabajando en
 - Una aplicación educativa en React que facilita el aprendizaje de lenguajes de programación y tecnologías para DAM y DAW.
@@ -79,7 +58,6 @@ Soy un desarrollador apasionado por las aplicaciones multiplataforma (DAM), con 
 - [LinkedIn](https://www.linkedin.com/in/imanol-mugueta-unsain-b18ba92b3/) 
 - [Gmail](mailto:kodigolekua@gmail.com)
 - [Outlook](mailto:kodeleku@outlook.com)
-
 
 ---
 
