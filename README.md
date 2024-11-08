@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="" width="80%"/>
+  <img src="welcome.gif" width="30%"/>
 </p>
 
 <h2>Mis Principales Skills</h2>  
