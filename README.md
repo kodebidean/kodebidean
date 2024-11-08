@@ -1,7 +1,15 @@
 # 👋 Hola! Soy Imanol 👨‍💻
 
 ### Sobre mí
-Soy un desarrollador apasionado por las aplicaciones multiplataforma (DAM) y por el aprendizaje continuo en IA y machine learning. Tengo experiencia en varios lenguajes como Java, Kotlin, Python, y Swift, además de frameworks modernos como React y Angular. Actualmente, estoy explorando y ampliando mis conocimientos en tecnología a través de diferentes módulos de DAM, enfocándome en soluciones prácticas y de alto rendimiento.
+<ul>
+  <li>⚛️Web developer</li>
+  <li>📱Android developer</li>
+  <li>🍏iOS developer</li>
+  <li>🏢Integración ERPs</li>
+  <li>🪄Marketing Digital</li>
+  <li>🧠Soluciones IA</li>
+  <li>🤖Machine Learning</li>
+</ul>
 
 ## 🚀 Tecnologías y Herramientas
 
