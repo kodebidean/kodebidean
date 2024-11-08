@@ -65,14 +65,14 @@
 
 
 <hr>
-<h3>🌱 Actualmente trabajando en</h3>
+<h2>🌱 Actualmente trabajando en</h2>
 <ol>
   <li>Una aplicación educativa en React que facilita el aprendizaje de lenguajes de programación y tecnologías para DAM y DAW.</li>
   <li>Un proyecto de fin de curso para la Formación Profesional Superior de DAM</li>
 </ol>
 
 <hr>
-<h3>🎓 Proyectos destacados</h3> 
+<h2>🎓 Proyectos destacados</h2> 
 <ol>
   <li>
     <a src="#">
@@ -101,10 +101,10 @@
     </a>
     <p>Interfaz que permite actualizar mediante importación XML las clasificaciones de luchadores de UFC</p>
   </li>
-</ul>
+</ol>
 
 <hr>
-<h3>📫 Conecta conmigo</h3> 
+<h2>📫 Conecta conmigo</h2> 
 <table style="border-collapse: collapse;" border="0">
   <tbody>
     <tr>
@@ -131,9 +131,6 @@
     </tr>
   </tbody>
 </table>
-
-
-
 
 <hr>
 
