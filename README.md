@@ -145,7 +145,7 @@
   <tbody>
     <tr>
       <td>App de automatización para conocimientos DAM, integrada con Notion.</td>
-      <td>Proyecto final en DAM, U-tad, con aprendizaje y aplicaciones IA.</td>
+      <td>Proyecto final en DAM, U-tad multiplataforma avanzado.</td>
       <td>App para Machine Learning, que ayuda a usuarios a cumplir sus metas.</td>
     </tr>
   </tbody>
