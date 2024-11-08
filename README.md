@@ -66,11 +66,10 @@
 
 <hr>
 <h3>🌱 Actualmente trabajando en</h3>
-<ul>
-  <li></li>
-  <li></li>
-</ul> Una aplicación educativa en React que facilita el aprendizaje de lenguajes de programación y tecnologías para DAM y DAW.
-- Un proyecto de fin de curso basado en traducción de código entre lenguajes utilizando IA y OpenAI.
+<ol>
+  <li>Una aplicación educativa en React que facilita el aprendizaje de lenguajes de programación y tecnologías para DAM y DAW.</li>
+  <li>Un proyecto de fin de curso para la Formación Profesional Superior de DAM</li>
+</ul>
 <hr>
 <h3>🎓 Proyectos destacados</h3> 
 <ol>
@@ -105,30 +104,34 @@
 
 <hr>
 <h3>📫 Conecta conmigo</h3> 
-<table>
+<table style="border-collapse: collapse;">
   <tbody>
-    <td>
-      <a src="https://www.linkedin.com/in/imanol-mugueta-unsain-b18ba92b3/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a src="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" height="40"/>
-      </a>  
-    </td>
-    <td>
-      <a src="mailto:kodigolekua@gmail.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a src="mailto:kodeleku@outlook.com">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/outlook/outlook-original.svg" width="40" height="40"/>
-      </a>
-    </td>
+    <tr>
+      <td style="border: none;">
+        <a href="https://www.linkedin.com/in/imanol-mugueta-unsain-b18ba92b3/" target="_self">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td style="border: none;">
+        <a href="https://discord.com/users/tu-discord-id" target="_self">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" height="40" alt="Discord"/>
+        </a>  
+      </td>
+      <td style="border: none;">
+        <a href="mailto:kodigolekua@gmail.com" target="_self">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" height="40" alt="Gmail"/>
+        </a>
+      </td>
+      <td style="border: none;">
+        <a href="mailto:kodeleku@outlook.com" target="_self">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/outlook/outlook-original.svg" width="40" height="40" alt="Outlook"/>
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
+
+
 
 <hr>
 
