@@ -1,6 +1,9 @@
-# 👋 Hola! Soy Imanol 👨‍💻
+# 👋 Hola! Soy Imanol 
+<hr>
+<img src=""></img>
 
-### Sobre mí
+### Sobre mi 
+<hr>
 <ul>
   <li>⚛️Web developer</li>
   <li>📱Android developer</li>
@@ -12,7 +15,7 @@
 </ul>
 
 ## 🚀 Tecnologías y Herramientas
-
+<hr>
 ### 🖥️ Lenguajes de Programación
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
