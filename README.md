@@ -36,13 +36,13 @@
   <tbody>
     <tr>
       <h4>🖥️Lenguajes de Marcado y Diseño</h4>
+      <td><img src="https://github.com/user-attachments/assets/24240a38-9f22-4591-a1be-c741860e3daf" width="40" height="40" alt="XML"/></td>
+      <td><img src="https://github.com/user-attachments/assets/5d2a7443-16b0-4282-b7b8-5d8307f3061a" width="40" height="40" alt="JSON"/></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/></td>
       <td><img src="https://github.com/user-attachments/assets/c39ba505-4a60-47af-8c96-757b1e6b1f58" width="40" height="40" alt="SCSS"/></td>
       <td><img src="https://github.com/user-attachments/assets/938f2ef9-d3d0-4754-afa1-77557aff3545" width="40" height="40" alt="Tailwind CSS"/></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap"/></td>
-      <td><img src="https://github.com/user-attachments/assets/24240a38-9f22-4591-a1be-c741860e3daf" width="40" height="40" alt="XML"/></td>
-      <td><img src="https://github.com/user-attachments/assets/5d2a7443-16b0-4282-b7b8-5d8307f3061a" width="40" height="40" alt="JSON"/></td>
     </tr>
   </tbody>
 </table>
