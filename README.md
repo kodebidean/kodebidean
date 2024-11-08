@@ -63,6 +63,37 @@
   </tbody>
 </table>
 
+<hr>
+
+<h2>🎓 Proyectos destacados</h2> 
+<table>
+  <tbody>
+    <td>
+      <a src="#">
+        <b>Kode Translate</b>
+      </a>
+      <p>Traductor de código entre varios lenguajes de programación usando React y Flask.</p> 
+    </td>
+    <td>
+      <a src="#">
+        <b>Notion-GitHub Sync</b>
+      </a>
+      <p>Automatización para sincronizar contenido de Notion con GitHub en formato Markdown a través de Python</p>
+    </td>
+    <td>
+      <a src="#">
+        <b>ERP System</b>
+      </a>
+      <p>Sistema ERP para gestión de operaciones empresariales y automatización de procesos realizado en su versión inicial con React y Firebase</p>
+    </td>
+    <td>
+      <a src="#">
+        <b>UFCnextChamp</b>
+      </a>
+      <p>Interfaz que permite actualizar mediante importación XML las clasificaciones de luchadores de UFC</p>
+    </td>
+  </tbody>
+</table>
 
 <hr>
 <h2>🌱 Actualmente trabajando en</h2>
@@ -72,7 +103,7 @@
 </ol>
 
 <hr>
-<h2>🎓 Proyectos destacados</h2> 
+
 <ol>
   <li>
     <a src="#">
@@ -102,6 +133,8 @@
     <p>Interfaz que permite actualizar mediante importación XML las clasificaciones de luchadores de UFC</p>
   </li>
 </ol>
+
+
 
 <hr>
 <h2>📫 Conecta conmigo</h2> 
