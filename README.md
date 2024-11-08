@@ -1,6 +1,4 @@
-<h3> Hola!👋 Soy ImaKortex </h3>
-
-<img src=""></img>
+<h3> Hola!👋 Soy Imanol@KodeBidean </h3>
 
 <h2>Mis Principales Skills</h2>  
 
@@ -15,8 +13,10 @@
 </ul>
 <hr>
 <h2>🚀 Tecnologías y Herramientas</h2>
-<table>
-  <tbody>
+
+<!-- Lenguajes de Programación -->
+<table border="0">
+  <tr>
     <td><h4>🦜 Lenguajes de Programación</h4> </td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/></td>
@@ -24,20 +24,22 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></td>
-  </tbody>
+  </tr>
 </table>
 
-<table>
-  <tbody>
+<!-- Bases de Datos -->
+<table border="0">
+  <tr>
     <td><h4>🗄️ Bases de Datos</h4></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/></td>
-  </tbody>
+  </tr>
 </table>
 
-<table>
-  <tbody>
+<!-- IDEs y Herramientas -->
+<table border="0">
+  <tr>
     <td><h4>🔧 IDEs y Herramientas de Desarrollo</h4></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/></td>
@@ -50,61 +52,24 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></td>
-  </tbody>
+  </tr>
 </table>
       
-<table>
-  <tbody>
-    <td><h4><h3>⚛️ Frameworks y Librerías</h3> </h4></td>
+<!-- Frameworks y Librerías -->
+<table border="0">
+  <tr>
+    <td><h4>⚛️ Frameworks y Librerías</h4></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/></td>
-  </tbody>
+  </tr>
 </table>
 
+<hr>
 
-<hr>
-<h3>🌱 Actualmente trabajando en</h3>
-<ol>
-  <li>Una aplicación educativa en React que facilita el aprendizaje de lenguajes de programación y tecnologías para DAM y DAW.</li>
-  <li>Un proyecto de fin de curso para la Formación Profesional Superior de DAM</li>
-</ul>
-<hr>
-<h3>🎓 Proyectos destacados</h3> 
-<ol>
-  <li>
-    <a src="#">
-      <b>Kode Translate</b>
-    </a>
-    <p>Traductor de código entre varios lenguajes de programación usando React y Flask.</p> 
-  </li>
-  
-  <li>
-    <a src="#">
-      <b>Notion-GitHub Sync</b>
-    </a>
-    <p>Automatización para sincronizar contenido de Notion con GitHub en formato Markdown a través de Python</p>
-  </li>
-  
-  <li>
-    <a src="#">
-      <b>ERP System</b>
-    </a>
-    <p>Sistema ERP para gestión de operaciones empresariales y automatización de procesos realizado en su versión inicial con React y Firebase</p>
-  </li>
-  
-  <li>
-    <a src="#">
-      <b>UFCnextChamp</b>
-    </a>
-    <p>Interfaz que permite actualizar mediante importación XML las clasificaciones de luchadores de UFC</p>
-  </li>
-</ul>
-
-<hr>
 <h3>📫 Conecta conmigo</h3> 
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse;" border="0">
   <tbody>
     <tr>
       <td style="border: none;">
@@ -130,8 +95,6 @@
     </tr>
   </tbody>
 </table>
-
-
 
 <hr>
 
