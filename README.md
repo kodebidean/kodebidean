@@ -69,7 +69,8 @@
 <ol>
   <li>Una aplicación educativa en React que facilita el aprendizaje de lenguajes de programación y tecnologías para DAM y DAW.</li>
   <li>Un proyecto de fin de curso para la Formación Profesional Superior de DAM</li>
-</ul>
+</ol>
+
 <hr>
 <h3>🎓 Proyectos destacados</h3> 
 <ol>
@@ -104,7 +105,7 @@
 
 <hr>
 <h3>📫 Conecta conmigo</h3> 
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse;" border="0">
   <tbody>
     <tr>
       <td style="border: none;">
@@ -119,17 +120,18 @@
       </td>
       <td style="border: none;">
         <a href="mailto:kodigolekua@gmail.com" target="_self">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" height="40" alt="Gmail"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="40" height="40" alt="Gmail"/>
         </a>
       </td>
       <td style="border: none;">
         <a href="mailto:kodeleku@outlook.com" target="_self">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/outlook/outlook-original.svg" width="40" height="40" alt="Outlook"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Outlook.com_icon.svg" width="40" height="40" alt="Outlook"/>
         </a>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 
 
