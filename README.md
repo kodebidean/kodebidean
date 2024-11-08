@@ -73,24 +73,63 @@
 - Un proyecto de fin de curso basado en traducción de código entre lenguajes utilizando IA y OpenAI.
 <hr>
 <h3>🎓 Proyectos destacados</h3> 
-<ul>
-  <li>[Kode Translate](https://github.com/kodebidean/kode-translate): Traductor de código entre varios lenguajes de programación usando React y Flask.</li>
-  <li>[Notion-GitHub Sync](https://github.com/tu-usuario/notion_github.py): Automatización para sincronizar contenido de Notion con GitHub en formato Markdown.</li>
-  <li>[ERP](https://github.com/tu-usuario/notion_github.py): Sistema ERP para gestión de operaciones empresariales y automatización de procesos</li>
-  <li>[UFCnextChamp](https://github.com/tu-usuario/notion_github.py): Interfaz que permite actualizar mediante importación XML las clasificaciones de luchadores de UFC</li>
+<ol>
+  <li>
+    <a src="#">
+      <b>Kode Translate</b>
+    </a>
+    <p>Traductor de código entre varios lenguajes de programación usando React y Flask.</p> 
+  </li>
+  
+  <li>
+    <a src="#">
+      <b>Notion-GitHub Sync</b>
+    </a>
+    <p>Automatización para sincronizar contenido de Notion con GitHub en formato Markdown a través de Python</p>
+  </li>
+  
+  <li>
+    <a src="#">
+      <b>ERP System</b>
+    </a>
+    <p>Sistema ERP para gestión de operaciones empresariales y automatización de procesos realizado en su versión inicial con React y Firebase</p>
+  </li>
+  
+  <li>
+    <a src="#">
+      <b>UFCnextChamp</b>
+    </a>
+    <p>Interfaz que permite actualizar mediante importación XML las clasificaciones de luchadores de UFC</p>
+  </li>
 </ul>
 
 <hr>
 <h3>📫 Conecta conmigo</h3> 
 <table>
   <tbody>
-    <td>[LinkedIn](https://www.linkedin.com/in/imanol-mugueta-unsain-b18ba92b3/)</td>
-    <td>[Discord](https://www.discord.com/)</td>
-    <td>[Gmail](mailto:kodigolekua@gmail.com)</td>
-    <td>[Outlook](mailto:kodeleku@outlook.com)</td>
+    <td>
+      <a src="https://www.linkedin.com/in/imanol-mugueta-unsain-b18ba92b3/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a src="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="40" height="40"/>
+      </a>  
+    </td>
+    <td>
+      <a src="mailto:kodigolekua@gmail.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a src="mailto:kodeleku@outlook.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/outlook/outlook-original.svg" width="40" height="40"/>
+      </a>
+    </td>
   </tbody>
 </table>
 
 <hr>
 
-> "kodebidean : En el flujo del Código"
+<em>"kodebidean : En el flujo del Código"</em>
