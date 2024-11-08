@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="welcome.gif" width="30%"/>
+  <img src="welcome.gif" width="40%"/>
 </p>
 
 <h2>Mis Principales Skills</h2>  
@@ -82,14 +82,14 @@
 <table>
   <tbody>
     <h4>⚛️ Frameworks y Librerías</h4>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/></td>
+    <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask"/></td></tr>
+    <tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/></td></tr>
   </tbody>
 </table>
 
@@ -180,6 +180,4 @@
 
 ---
 
-<div align="center">
-  <iframe src="https://drive.google.com/file/d/19KOR2qEZOit_DRF7r5g0vs6z9NxqeCpK/preview" width="640" height="480"></iframe>
-</div>
+
