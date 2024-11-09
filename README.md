@@ -194,7 +194,7 @@
 
 <p align="center">🦋<em> Creo que cada línea de código es una oportunidad para construir algo significativo.</em><em> Mi meta es desarrollar soluciones que hagan la diferencia, recordándonos que lo imposible no existe, solo se necesita creer e ir por ello.</em>🌻</p>
 <hr>
-<p align="center">
+<p>
    <small><strong><em>kodebidean:</em></strong> En el flujo del código</small>
 </p>
 
