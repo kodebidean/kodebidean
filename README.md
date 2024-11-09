@@ -156,37 +156,43 @@
     <img src="CVimage.jpg" alt="Curriculum Vitae" width="200" />
 </a>
 <hr>
-<h2>📫 Conecta conmigo</h2> 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/imanol-mugueta-unsain-b18ba92b3/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://discord.com/users/tu-discord-id">
-          <img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" width="50" height="50" alt="Discord"/>
-        </a>
-      </td>
-      <td>
-        <a href="mailto:kodigolekua@gmail.com">
-          <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="50" height="50" alt="Gmail"/>
-        </a>
-      </td>
-      <td>
-        <a href="mailto:kodeleku@outlook.com">
-          <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_outlook_macos_bigsur_icon_189971.png" width="50" height="50" alt="Outlook"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <h2>📫 Conecta conmigo</h2> 
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://www.linkedin.com/in/imanol-mugueta-unsain-b18ba92b3/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+          </a>
+        </td>
+        <td>
+          <a href="https://discord.com/users/tu-discord-id">
+            <img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" width="50" height="50" alt="Discord"/>
+          </a>
+        </td>
+        <td>
+          <a href="mailto:kodigolekua@gmail.com">
+            <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="50" height="50" alt="Gmail"/>
+          </a>
+        </td>
+        <td>
+          <a href="mailto:kodeleku@outlook.com">
+            <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_outlook_macos_bigsur_icon_189971.png" width="50" height="50" alt="Outlook"/>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <p>
+    <img src="IManimation.gif" width="40%"/>
+  </p>
+</div>
 
 
 <hr>
 <em>"kodebidean: En el flujo del Código"</em>
+
 
 
 
