@@ -151,6 +151,11 @@
   </tbody>
 </table>
 <hr>
+<h2>Curriculum Vitae</h2>
+<a href="ImanolMuguetaUnsain24CV.pdf" target="_blank">
+    <img src="CVimage.jpg" alt="Curriculum Vitae" width="200" />
+</a>
+<hr>
 <h2>📫 Conecta conmigo</h2> 
 <table>
   <tbody>
