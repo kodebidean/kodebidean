@@ -185,7 +185,7 @@
 </table>
 
 
-
+<hr>
 <em>"kodebidean: En el flujo del Código"</em>
 
 
