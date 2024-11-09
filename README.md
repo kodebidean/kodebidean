@@ -5,8 +5,11 @@
 
 <p align="center">
   <img src="welcome.gif" width="40%"/>
+  
 </p>
+<p align="center">⏳<em> El tiempo es solo una dirección; el camino lo eliges tú </em>✨</p>
 
+<hr>
 <h2>Mis Principales Skills</h2>  
 <ul>
   <li>⚛️Web developer</li>
@@ -189,9 +192,12 @@
   </p>
 </div>
 
-
+<p align="center">🦋<em> Creo que cada línea de código es una oportunidad para construir algo significativo.</em><em> Mi meta es desarrollar soluciones que hagan la diferencia, recordándonos que lo imposible no existe, solo se necesita creer e ir por ello.</em>🌻</p>
 <hr>
-<em>"kodebidean: En el flujo del Código"</em>
+<p align="center">
+   <small><strong><em>kodebidean:</em></strong> En el flujo del código</small>
+</p>
+
 
 
 
