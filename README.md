@@ -155,8 +155,8 @@
 </table>
 <hr>
 <h2>Curriculum Vitae</h2>
-<a href="ImanolMuguetaUnsain24CV.pdf" target="_blank">
-    <img src="CVimage.jpg" alt="Curriculum Vitae" width="200" />
+<a href="ImanolMuguetaUnsain_CV.pdf" target="_blank">
+    <img src="img_cv.png" alt="Curriculum Vitae" width="200" />
 </a>
 <hr>
 <div align="center">
