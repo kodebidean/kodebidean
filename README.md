@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Hola!👋 Soy IM@kodebidean</h1>
+  <h1>Hola!👋 Soy IM@</h1>
 </div>
 
 <p align="center">
