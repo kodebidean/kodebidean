@@ -51,9 +51,6 @@
     </tr>
   </tbody>
 </table>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodebidean&layout=compact&theme=dark&langs_count=8&card_width=350" />
-</div>
 <table>
   <tbody>
     <h4>🗄️ Bases de Datos y Servicios en la Nube</h4>
