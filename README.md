@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="welcome.gif" width="40%"/>
+  <img src="munsax2.gif" width="40%"/>
   
 </p>
 <p align="center">⏳<em> El tiempo es solo una dirección; el camino lo eliges tú </em>✨</p>
@@ -185,7 +185,7 @@
     </tbody>
   </table>
   <p>
-    <img src="IManimation.gif" width="40%"/>
+    <img src="munsax.gif" width="40%"/>
   </p>
 </div>
 
