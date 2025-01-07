@@ -185,7 +185,7 @@
     </tbody>
   </table>
   <p>
-    <img src="munsax.gif" width="75%"/>
+    <img src="munsax.gif" width="50%"/>
   </p>
 </div>
 
