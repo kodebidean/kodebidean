@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="munsax3.gif" width="60%"/>
+  <img src="munsax3.gif" width="40%"/>
   
 </p>
 <p align="center">⏳<em> El tiempo es solo una dirección; el camino lo eliges tú </em>✨</p>
