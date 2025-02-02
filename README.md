@@ -7,7 +7,7 @@
   <img src="munsax3.gif" width="40%"/>
   
 </p>
-<p align="center">⏳<em> El tiempo es solo una dirección; el camino lo eliges tú </em>✨</p>
+<hr>
 
 <h2>Mis Principales Skills</h2>  
 <ul>
@@ -154,11 +154,6 @@
 </table>
 <br>
 <hr>
-<h2>Curriculum Vitae</h2>
-<a href="ImanolMuguetaUnsainGITHUB25CV.pdf" target="_blank">
-    <img src="ImanolMuguetaUnsainGITHUB25CV.png" alt="Curriculum Vitae" width="200" />
-</a>
-<br>
 <br>
 <div align="center">
     <h2>🌐 Mi Portfolio</h2>
@@ -198,7 +193,7 @@
   </p>
 </div>
 
-<p align="center">🦋<em> Creo que cada línea de código es una oportunidad para construir algo significativo.</em><em> Mi meta es desarrollar soluciones que hagan la diferencia, recordándonos que lo imposible no existe, solo se necesita creer e ir por ello.</em>🌻</p>
+<p align="center">⏳<em> El tiempo es solo una dirección; el camino lo eliges tú </em>✨</p>
 <hr>
 <p>
    <small><strong><em>kodebidean:</em></strong> En el flujo del código</small>
