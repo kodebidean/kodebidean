@@ -159,7 +159,7 @@
     <h2>🌐 Mi Portfolio</h2>
     <p align="center">
       <a href="https://www.imamultidev.dev" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2950/2950761.png" width="100" height="100" alt="Portfolio"/>
+        <img src="portfolio-preview.png" width="50%" alt="Portfolio"/>
       </a>
   </p>
 </div>
