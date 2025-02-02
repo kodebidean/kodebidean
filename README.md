@@ -9,7 +9,6 @@
 </p>
 <p align="center">⏳<em> El tiempo es solo una dirección; el camino lo eliges tú </em>✨</p>
 
-<hr>
 <h2>Mis Principales Skills</h2>  
 <ul>
   <li>⚛️Web developer</li>
@@ -20,7 +19,8 @@
   <li>🧠Soluciones IA</li>
   <li>🤖Machine Learning</li>
 </ul>
-<hr>
+<br>
+
 <h2>🚀 Tecnologías y Herramientas</h2>
 <table>
   <tbody>
@@ -112,6 +112,7 @@
     </tr>
   </tbody>
 </table>
+<br>
 <hr>
 <h2>🎓 Proyectos destacados</h2>
 <table>
@@ -132,7 +133,8 @@
     </tr>
   </tbody>
 </table>
-
+<br>
+<hr>
 <h2>🌱 Actualmente trabajando en</h2>
 <table>
   <thead>
@@ -150,14 +152,25 @@
     </tr>
   </tbody>
 </table>
+<br>
 <hr>
 <h2>Curriculum Vitae</h2>
-<a href="ImanolMuguetaUnsain_CV.pdf" target="_blank">
-    <img src="img_cv.png" alt="Curriculum Vitae" width="200" />
+<a href="ImanolMuguetaUnsainGITHUB25CV.pdf" target="_blank">
+    <img src="ImanolMuguetaUnsainGITHUB25CV.png" alt="Curriculum Vitae" width="200" />
 </a>
-<hr>
+<br>
+<br>
 <div align="center">
-  <h2>📫 Conecta conmigo</h2> 
+    <h2>🌐 Mi Portfolio</h2>
+    <p align="center">
+      <a href="https://www.imamultidev.dev" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2950/2950761.png" width="100" height="100" alt="Portfolio"/>
+      </a>
+  </p>
+</div>
+<br>
+<div align="center">
+  <h2>📫 Conecta conmigo</h2>
   <table>
     <tbody>
       <tr>
@@ -172,18 +185,14 @@
           </a>
         </td>
         <td>
-          <a href="mailto:kodigolekua@gmail.com">
-            <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" width="50" height="50" alt="Gmail"/>
-          </a>
-        </td>
-        <td>
-          <a href="mailto:kodeleku@outlook.com">
-            <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_outlook_macos_bigsur_icon_189971.png" width="50" height="50" alt="Outlook"/>
+          <a href="mailto:contact@imamultidev.dev">
+            <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" height="50" alt="Email Profesional"/>
           </a>
         </td>
       </tr>
     </tbody>
   </table>
+  
   <p>
     <img src="munsax.gif" width="50%"/>
   </p>
