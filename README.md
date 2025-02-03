@@ -158,7 +158,7 @@
 <div align="center">
     <h2>🌐 Mi Portfolio</h2>
     <p align="center">
-      <a href="https://www.imamultidev.dev" target="_blank">
+      <a href="https://www.imamultidev.dev" target="_blank" rel="noopener noreferrer">
         <img src="portfolio-preview.png" width="50%" alt="Portfolio"/>
       </a>
   </p>
@@ -170,13 +170,13 @@
     <tbody>
       <tr>
         <td>
-          <a href="https://www.linkedin.com/in/imanol-mugueta-unsain-b18ba92b3/">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+          <a href="https://www.linkedin.com/in/imanol-mugueta-unsain-b18ba92b3/"  target="_blank" rel="noopener noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  target="_blank" rel="noopener noreferrer" width="50" height="50" alt="LinkedIn"/ >
           </a>
         </td>
         <td>
           <a href="https://discord.com/users/tu-discord-id">
-            <img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png" width="50" height="50" alt="Discord"/>
+            <img src="https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png"  target="_blank" rel="noopener noreferrer" width="50" height="50" alt="Discord"/>
           </a>
         </td>
         <td>
